@@ -1,1 +1,1 @@
-# PhotoOrganizer
+I wrote a small script to organize and search for all my pictures on my computer. My pictures are scattered everywhere, and it would take too much time to find them manually. With this script, I can do it much faster.
